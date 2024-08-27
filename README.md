@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ManvilB
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 📫 How to reach me manvilb@gmail.com
+- 📫 How to reach me mbatta3@gatech.edu
 
 <!---
 ManvilB/ManvilB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
