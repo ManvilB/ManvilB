@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManvilB
-- 👀 I’m interested in coding
+- 👀 I’m interested in Machine Learning
 - 📫 How to reach me manvilb@gmail.com
 
 <!---
